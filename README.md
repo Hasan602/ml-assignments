@@ -15,4 +15,4 @@ pip install numpy pandas matplotlib scikit-learn openpyxl jupyter
 jupyter notebook
 ```
 
-Author: **Md Hasan** · [mathbookbd.com](https://mathbookbd.com)
+Author: **Mohammad Hasan** · [mathbookbd.com](https://mathbookbd.com)
